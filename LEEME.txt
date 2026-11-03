@@ -1,0 +1,7 @@
+KASHMIR JONES — SITIO EDITABLE
+1. content.js  -> todos los textos, obras, proyectos, noticias y datos de contacto.
+2. images/     -> imágenes. Para cambiar una, sustituye el archivo con el mismo nombre. Las incluidas están reducidas (760 px): sube versiones en alta para la web final.
+3. styles.css  -> colores y tamaños (variables al inicio, en :root). Tipografía: Poppins.
+4. index.html y app.js -> estructura y lógica; normalmente no hace falta tocarlos.
+Abre index.html en el navegador para ver los cambios. Para publicarlo, sube la carpeta completa a tu hosting.
+Las imágenes y el contenido de las secciones Proyectos y Noticias se añaden en content.js.
