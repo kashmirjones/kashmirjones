@@ -49,3 +49,15 @@ form{display:grid;gap:18px}label{font-size:13px;color:var(--mu);display:grid;gap
 footer{padding:46px clamp(18px,4vw,64px) 36px;border-top:1px solid var(--ln);display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;font-size:13px;color:var(--mu)}footer a{text-decoration:none;margin-right:18px}footer a:hover{color:var(--tx)}
 @media(max-width:820px){.split,.dl,.it{grid-template-columns:1fr}.hero h1{font-size:17vw;white-space:normal;padding-bottom:4vh}.mk img{height:34px}header{padding:12px 18px}nav{font-size:11px;gap:12px}.dl .pic img{max-height:50vh}.it{gap:8px}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+/* Titulares centrados */
+#galeria .ph .wrap,
+#galeria-completa .ph .wrap,
+#proyectos .ph .wrap,
+#noticias .ph .wrap,
+#tienda .ph .wrap { text-align: center; }
+
+#galeria .lead,
+#galeria-completa .lead,
+#proyectos .lead,
+#noticias .lead,
+#tienda .lead { margin-left: auto; margin-right: auto; }
