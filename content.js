@@ -1,7 +1,7 @@
 /* CONTENIDO DEL SITIO — edita aquí textos, obras, proyectos y noticias.
    Las imágenes están en la carpeta /images: sustituye el archivo o cambia la ruta. Respeta las comillas y las comas. */
 const SITE={
- nombre:"Kashmir Jones", lema:"Artista multidisciplinario", ubicacion:"Barcelona – República Dominicana",
+ nombre:"Kashmir Jones", lema:"artista multidisciplinario", ubicacion:"Barcelona – República Dominicana",
  email:"studio@kashmirjones.com", instagram:"@kashmirjonesart", telefonos:["+34 617 20 73 43","+34 610 98 00 49"],
  firma:"images/firma.webp", portada:"images/portada.jpg", retrato:"images/kashmir-retrato.jpg", estudio:"images/estudio.jpg",
  menu:[["Sobre mí","sobre-mi"],["Galería","galeria"],["Proyectos","proyectos"],["Noticias","noticias"],["Tienda","tienda"],["Contacto","contacto"]],
