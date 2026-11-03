@@ -8,7 +8,7 @@ const SITE={
  motivos:["Consulta sobre una obra","Prensa","Colaboración o encargo","Otro"],
  bio:"Kashmir Jones (Santo Domingo, 1981) es un artista multidisciplinar cuya práctica integra pintura, dibujo, música, diseño gráfico y creatividad publicitaria. Su obra explora la memoria, la identidad afrocaribeña y la relación entre territorio, naturaleza y cultura popular. Vive y trabaja entre Barcelona y República Dominicana.",
  statement:"Mi práctica nace de mi raíz caribeña y conecta con una visión global. La pintura, el dibujo, el hip-hop y el diseño convergen en un espacio de libertad donde lo cotidiano se transforma en memoria y lo íntimo en un lenguaje de resistencia. A través del color, la textura y la composición, construyo narrativas entre lo figurativo y lo abstracto, la poesía y la osadía.",
- datos:[["Santo Domingo, 1981","Lugar y año de nacimiento"],["Barcelona y República Dominicana","Vive y trabaja"],["Pintura, dibujo, música y diseño","Práctica multidisciplinar"],["31 obras","Catálogo 2024–2026"]],
+ datos:[["Santo Domingo, 1981","Lugar y año de nacimiento"],["Barcelona y República Dominicana","Vive y trabaja"],["Pintura, dibujo, música y diseño","Práctica multidisciplinar"]],
  /* destacada = id de la obra que representa la serie en Galería y Proyectos */
  series:[
   {"r": "I", "titulo": "Raíz y Resistencia", "intro": "La figura afrocaribeña se funde con la tierra, sus frutos y sus símbolos. Cuerpo, trabajo y espiritualidad construyen un territorio de pertenencia: la raíz como origen, sustento y resistencia.", "destacada": 1},
