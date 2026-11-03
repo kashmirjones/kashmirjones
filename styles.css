@@ -61,3 +61,5 @@ footer{padding:46px clamp(18px,4vw,64px) 36px;border-top:1px solid var(--ln);dis
 #proyectos .lead,
 #noticias .lead,
 #tienda .lead { margin-left: auto; margin-right: auto; }
+.chips { justify-content: center; }
+#galeria .wrap { text-align: center; }
