@@ -3,7 +3,7 @@
 const SITE={
  nombre:"Kashmir Jones", lema:"A R T I S T A  M U L T I D I S C I P L I N A R I O", ubicacion:"Barcelona – República Dominicana",
  email:"studio@kashmirjones.com", instagram:"@kashmirjonesart", telefonos:["+34 617 20 73 43","+34 610 98 00 49"],
- firma:"images/firma.webp", portada:"images/portada.webp", retrato:"images/kashmir-retrato.jpg", estudio:"images/estudio.jpg",
+ firma:"images/firma.webp", portada:"images/portada.webp", retrato:"images/kashmir-retrato2.jpg", estudio:"images/estudio.jpg",
  menu:[["Sobre mí","sobre-mi"],["Galería","galeria"],["Proyectos","proyectos"],["Noticias","noticias"],["Tienda","tienda"],["Contacto","contacto"]],
  motivos:["Consulta sobre una obra","Prensa","Colaboración o encargo","Otro"],
  bio:"Kashmir Jones (Santo Domingo, 1981) es un artista multidisciplinar cuya práctica integra pintura, dibujo, música, diseño gráfico y creatividad publicitaria. Su obra explora la memoria, la identidad afrocaribeña y la relación entre territorio, naturaleza y cultura popular. Vive y trabaja entre Barcelona y República Dominicana.",
